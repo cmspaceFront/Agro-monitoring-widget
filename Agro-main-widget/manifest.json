@@ -1,0 +1,32 @@
+{
+  "name": "Agro-main-widget",
+  "label": "Agro Main Widget",
+  "type": "widget",
+  "version": "6.0.0",
+  "exbVersion": "1.16.0",
+  "author": "abdullajonov1",
+  "description": "Self-contained Space Agro Monitoring dashboard with embedded map, Localization, Region, Indicator, Pie, Graff, Bar and Popup panels. Local folder name Agro_widgetV5; publish as Agro_widgetV6.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "supportAutoSize": false
+  },
+  "translatedLocales": [
+    "en",
+    "uz",
+    "ru"
+  ],
+  "defaultSize": {
+    "width": 1920,
+    "height": 920
+  },
+  "supports": {
+    "map": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "supportInlineEditing": true,
+  "hasSettingPage": true,
+  "useDataSources": true
+}
