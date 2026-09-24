@@ -5,7 +5,7 @@
   "version": "6.0.0",
   "exbVersion": "1.16.0",
   "author": "abdullajonov1",
-  "description": "Self-contained Space Agro Monitoring dashboard with embedded map, Localization, Region, Indicator, Pie, Graff, Bar and Popup panels. Local folder name Agro_widgetV5; publish as Agro_widgetV6.",
+  "description": "Space Agro Monitoring. Portal package: https://abdullajonov1.github.io/agri/widgets/Agro_widgetV6/manifest.json — Chickpea label and draggable popup field order.",
   "copyright": "",
   "license": "",
   "properties": {
