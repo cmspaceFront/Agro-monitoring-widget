@@ -2,7 +2,7 @@
   "name": "Agro-main-widget",
   "label": "Space Agro Monitoring V6 (dev)",
   "type": "widget",
-  "version": "6.0.0",
+  "version": "6.2.1",
   "exbVersion": "1.16.0",
   "author": "abdullajonov1",
   "description": "Space Agro Monitoring. Portal package: https://abdullajonov1.github.io/agri/widgets/Agro_widgetV6/manifest.json — Chickpea label and draggable popup field order.",
